@@ -1,2 +1,2 @@
 # demo-secrets-github
-aaaaa
+“Teste do GitHub Secrets ✅”
